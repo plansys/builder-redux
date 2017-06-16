@@ -1,0 +1,10 @@
+{
+    "name": "plansys/builder-redux",
+    "description": "Plansys Yard's Redux Builder",
+    "type": "library",
+    "require": {
+        "plansys/yard": "^0.0.2"
+    },
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
