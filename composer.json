@@ -9,7 +9,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Plansys\\Builder\\Redux": "src/"
+            "Plansys\\Builder\\Redux": "src/",
             "Plansys\\Builder\\Redux\\Pages": "src/pages/"
         }
     }
