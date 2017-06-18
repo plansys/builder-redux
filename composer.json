@@ -6,7 +6,6 @@
         "plansys/yard": "*"
     },
     "license": "MIT",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Plansys\\Builder\\Redux\\": "src/",
