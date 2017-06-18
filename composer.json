@@ -3,7 +3,7 @@
     "description": "Plansys Yard's Redux Builder",
     "type": "library",
     "require": {
-        "plansys/yard": "^0.0.2"
+        "plansys/yard": "*"
     },
     "license": "MIT",
     "minimum-stability": "dev",
